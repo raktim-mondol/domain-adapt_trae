@@ -1,0 +1,83 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.env
+.env.local
+.env.*
+.python-version
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage/
+htmlcov/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build and distribution artifacts
+dist/
+build/
+*.egg-info/
+.sconsign.dblite
+._build/
+buck-out/
+build/
+cmake_build/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg
+*.zip
+*.tar.gz
+*.whl
+
+# Testing
+.pytest_cache/
+.nosetests
+coverage.xml
+htmlcov/
+.tox/
+.coverage.*
+
+# Environment specific
+.env
+.env.local
+.env.*
+.environment
+.pydevproject
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+```
